@@ -1,1 +1,5 @@
-Placeholder for a repository on building regression models.
+Repository for the 3 hour live training given at O'reilly: https://www.oreilly.com/live-events/regression-models-with-python/0636920093593/0636920093592/
+
+This repo consists of all the images used in the instructional notebooks, plots, notebooks themselves with code used to demonstrate and teach the participants about regression modeling.
+
+Feel free to use: https://mybinder.org/ to run this repo.
